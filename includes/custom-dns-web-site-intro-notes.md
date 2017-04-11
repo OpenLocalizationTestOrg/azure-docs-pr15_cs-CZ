@@ -1,0 +1,5 @@
+Tento článek je aplikace služby Azure (Web Apps, rozhraní API aplikace, mobilní aplikace, použití logických operátorů aplikace) cloudové služby najdete v článku [Konfigurace vlastního názvu domény pro službu Azure cloudu](../articles/cloud-services/cloud-services-custom-domain-name.md).
+
+> [AZURE.NOTE]  Pokud jste aplikaci Vyrovnávání zatížení správcem [přenosy Azure](https://azure.microsoft.com/services/traffic-manager/), klikněte na volič v horní části tohoto článku konkrétní postup.
+>
+> **Vlastní doménu, kterou jsou jména Nepovoleno zdarma osy**. Musíte [Měřítko až vyšší ceny osy](../articles/app-service-web/web-sites-scale.md), které může změnit kolik je faktura pro vaše předplatné. Další informace najdete v článku [Aplikace služby ceny](https://azure.microsoft.com/pricing/details/app-service/) .

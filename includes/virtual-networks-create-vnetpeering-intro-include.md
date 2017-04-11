@@ -1,0 +1,1 @@
+Prozkoumávání VNet je mechanismus připojení ve stejné oblasti dvě virtuální sítě prostřednictvím Azure páteřní síti. Jakmile peered, dvě virtuální sítě vypadat jako jedné virtuální sítě pro účely všechna připojení. Pokud znáte není VNet prozkoumávání, přečtěte si [VNet prozkoumávání přehled](../articles/virtual-network/virtual-network-peering-overview.md) .

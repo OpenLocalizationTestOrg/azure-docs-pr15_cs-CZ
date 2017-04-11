@@ -1,0 +1,1 @@
+> [AZURE.IMPORTANT] Než začnete pracovat s Azure prostředky, se seznámíte s modelů nasazení: [Správce zdrojů a klasické](../articles/resource-manager-deployment-model.md).

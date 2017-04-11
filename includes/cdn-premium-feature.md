@@ -1,0 +1,1 @@
+> [AZURE.IMPORTANT] Toto je funkce **Azure CDN Premium z Verizon**a není k dispozici u **Azure CDN standardní** produkty.  Porovnání funkcí CDN naleznete v tématu [Přehled CDN Azure](cdn-overview.md#azure-cdn-features). 

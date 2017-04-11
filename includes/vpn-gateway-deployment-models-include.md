@@ -1,0 +1,5 @@
+Je důležité pochopit, že Azure právě spolupracuje dva modely nasazení: Správce zdrojů a klasické. Než začnete konfiguraci, zkontrolujte, že používáte pokynů pro nasazení modelu, který chcete pracovat. Dva modely nejsou vzájemně úplně kompatibilní.
+
+Například pokud pracujete s virtuální sítě, který byl vytvořený pomocí klasické nasazení modelu a chtěli přidání připojení k VNet, použijete metod nasazení, které odpovídají klasické nasazení modelu, nikoli správce prostředků. Pokud pracujete s virtuální sítě, který byl vytvořený pomocí nasazení modelu správce prostředků, použijete metod nasazení, které odpovídají s správce zdrojů, nikoli klasické.
+
+Informace o modelů nasazení najdete v článku [Správce prostředků Principy nasazení a klasické nasazení](../articles/resource-manager-deployment-model.md).

@@ -1,0 +1,1 @@
+> [AZURE.NOTE] Informace v tomto dokumentu platí jenom pro clusterů serveru s Windows HDInsight.

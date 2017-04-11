@@ -1,0 +1,1 @@
+Při použití odpovědi přenosy Microsoft Azure k načtení zůstatek přenosy na váš web Azure webu můžete přistupovat pomocí ** \*. trafficmanager.net** přidělil Azure název domény. Vlastní název domény, třeba www.contoso.com, můžete také přidružit váš web za účelem zajištění více srozumitelný název domény pro uživatele.

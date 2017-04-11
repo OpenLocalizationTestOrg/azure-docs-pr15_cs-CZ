@@ -1,0 +1,7 @@
+- **PolicyBased:** Virtuální privátní sítě PolicyBased byly dříve nazývanou statické směrování bran v modelu klasické nasazení. Zásady VPN šifrování a přímé paketů tunely IPsec podle zásadám nakonfigurována kombinací předpony adres mezi místní síti a Azure VNet. Zásady (nebo výběr přenosy) se obvykle rozumí seznamu aplikace access v zařízení configuration VPN. Typ PolicyBased VPN hodnotu *PolicyBased*. Pokud chcete použít PolicyBased VPN, mějte na paměti následující omezení:
+
+    - Umožňuje PolicyBased VPN **jen** použít na základní brány SKU. Tento typ VPN není kompatibilní s jiná brána skladové jednotky.
+    - Při použití PolicyBased VPN, může mít jenom 1 tunelem.
+    - Virtuální privátní sítě PolicyBased můžete použít jenom pro S2S připojení a jenom pro některé konfigurace. Většina konfigurace VPN brány vyžadují RouteBased VPN.
+
+- **RouteBased**: virtuální privátní sítě RouteBased byly dříve nazývanou dynamické směrování bran v modelu klasické nasazení. Virtuální privátní sítě RouteBased pomocí "směruje" v IP předáváte dál nebo směrování tabulky na přímé pakety do jejich odpovídající tunelem rozhraní. Rozhraní tunelem potom šifrování nebo dešifrování paketů a odhlášení z jejich tunely. Zásady (nebo výběr přenosy) RouteBased VPN, nastaveny jako libovolný – libovolného (nebo zástupné znaky). Typ RouteBased VPN hodnotu *RouteBased*.

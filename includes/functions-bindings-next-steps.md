@@ -1,0 +1,1 @@
+Informace o dalších vazby a aktivační události pro funkce Azure najdete v článku [funkce Azure aktivace a referenční informace pro vývojáře vazby](../articles/azure-functions/functions-triggers-bindings.md)

@@ -1,0 +1,3 @@
+Můžete vytvořit virtuálních počítačích (VMs) v Azure a připojit víc sítí rozhraní (NIC) na jednotlivé vaší VMs. Více NIC je povinné pro mnoho sítě virtuální spotřebiče, například aplikace doručení a sítě WAN optimalizační řešení. Více NIC také poskytuje další funkce správy přenosy sítě, včetně izolace komunikace mezi přední straně ukončit NIC a zpět end adaptérů NIC: nebo oddělení dat rovině přenosy z provozu rovině správy.
+
+Než implementaci více nic v VMs, je třeba porozumět tomu, pokud používáte více nic a jejich použití. Přečtěte si [Přehled NIC více](../articles/virtual-network/virtual-networks-multiple-nics.md) zobrazíte další informace o VMs s více nic.

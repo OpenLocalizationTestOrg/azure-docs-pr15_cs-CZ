@@ -1,0 +1,3 @@
+Azure funkce je řízeného událostmi, výpočetním na vyžádání prezentaci, která slouží k rozšíření existující Platforma Azure aplikací s možnostmi implementovat kód spouštěný kliknutím událostí v jiných Azure služeb, produktů SaaS a místní systémy. Mezi šablonami Azure funkcí, mezi které aplikace měřítko na základě služba a platí jenom pro zdroje, které můžete používat. Azure funkce poskytuje intuitivní, prohlížečový uživatelské rozhraní umožňuje vytvářet naplánované nebo spouštěný částí kódu implementovaná různými jazyky. 
+
+Toto video Začínáme ukazuje, jak vytvářet funkce aplikace, upravte kód, a taky jak chcete provést interakci s aktivačními událostmi a vazby.

@@ -1,0 +1,4 @@
+- [Řízení přístupu na základě rolí](../articles/active-directory/role-based-access-control-configure.md)
+- [Správa přístupu pomocí prostředí Powershell Azure](../articles/active-directory/role-based-access-control-manage-access-powershell.md)
+- [Správa přístupu pomocí rozhraní příkazového řádku Azure](../articles/active-directory/role-based-access-control-manage-access-azure-cli.md)
+- [RBAC integrované role](../articles/active-directory/role-based-access-built-in-roles.md)

@@ -1,0 +1,3 @@
+Nastavení vlastního názvu domény na web appu v aplikaci služby Azure, která je rozloženy správcem přenosy je dostupný jenom u **standardním** režimu weby. Před přepnutím do webových aplikací v režimu plán bezplatnou aplikaci služby do režimu sdílené, základní nebo Standard, je třeba nejprve odebrat výdajů caps na místě pro vaše předplatné aplikaci služby. 
+
+Další informace o režimy plánování aplikaci služby včetně jak změnit režim webu, podívejte se, [jak zobrazit webové stránky](../articles/app-service-web/web-sites-scale.md).

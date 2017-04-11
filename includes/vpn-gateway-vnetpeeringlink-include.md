@@ -1,0 +1,1 @@
+Je také možné se připojit VNets bez použití VPN brány. Pokud vaše VNets ve stejné oblasti, je vhodné vzít v úvahu připojení pomocí VNet prozkoumávání. Další informace naleznete v článku [VNet prozkoumávání](../articles/virtual-network/virtual-network-peering-overview.md) .

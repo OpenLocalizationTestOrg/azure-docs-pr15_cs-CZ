@@ -1,0 +1,1 @@
+Pokud už nemáte profil správce přenosy, použijte informace v tématu [Vytvoření profil správce přenosy pomocí vytvořit](../articles/traffic-manager/traffic-manager-manage-profiles.md) a vytvořte si ho. Poznámka **. trafficmanager.net** název domény přidružený přenosy správce profilu, jak to bude použita později novější kroky v tomto dokumentu.

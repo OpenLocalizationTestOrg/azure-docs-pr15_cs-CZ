@@ -1,0 +1,1 @@
+Při vytváření do webových aplikací Microsoft Azure obsahuje popisný subdoménu azurewebsites.net domény tak, aby vaši uživatelé můžete přistupovat k webovou aplikaci pomocí adresu URL, třeba http://&lt;mywebapp&gt;. azurewebsites.net. Vlastní název domény, například contoso.com, můžete také propojit webovou aplikaci pro zajištění více srozumitelný název domény pro uživatele.
