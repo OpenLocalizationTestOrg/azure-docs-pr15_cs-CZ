@@ -1,0 +1,3 @@
+Služba Azure vnitřního zatížení vyrovnávání (ILB) obsahuje rozložení zátěže sítě mezi virtuálními počítači, které se nacházejí uvnitř cloudové služby nebo virtuální sítě s místním rozsahem.
+
+Informace o použití a konfiguraci virtuální sítě s místním rozsahem viz [Virtuální místní sítě](../articles/virtual-network/virtual-networks-migrate-to-regional-vnet.md). ILB nelze použít existující virtuální sítě, které byly nakonfigurovány pro skupinu spřažení.
