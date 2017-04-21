@@ -1,0 +1,3 @@
+> Nelze použít v1 (Classic) Azure virtuální síti se systémem Linux HDInsight. Virtuální sítě musí být v2 (Azure správce zdrojů), aby mohlo být vedená jako jednu z možností vytváření během HDInsight obrázku na portálu Azure náhled nebo možné použít při vytváření clusteru z Azure rozhraní příkazového řádku nebo Azure Powershellu.
+> 
+> Pokud jste vytvořili zdroje v síti v1 a chcete zpřístupnit HDInsight přímo na tyto materiály prostřednictvím virtuální sítě, informace najdete v tématu [připojení klasické VNets do nového VNets](../articles/vpn-gateway/vpn-gateway-connect-different-deployment-models-portal.md) návod k připojení k síti virtuální v1 v2 virtuální sítě. Po tomto připojení, můžete vytvořit HDInsight obrázku v síti virtuální v2.

@@ -1,0 +1,1 @@
+> [AZURE.IMPORTANT]  Tento obsah se nedá použít a už není zachován.  Přehled podpory Oracle na Azure, najdete v článku [to publikované údajů podpory.](http://www.oracle.com/technetwork/topics/cloud/faq-1963009.html#support)
